@@ -1,0 +1,19 @@
+<!-- features_room_startt -->
+<div class="Burger_President_area">
+    <div class="Burger_President_here">
+        <div class="single_Burger_President" *ngFor="let special of specials">
+            <div class="room_thumb">
+            <img src={{special.img}} alt="">
+                <div class="room_heading d-flex justify-content-between align-items-center">
+                    <div class="room_heading_inner">
+                        <span>${{special.price}}</span>
+                        <h3>{{special.name}}</h3>
+                        <p>{{special.desc}}.</p>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- features_room_end -->

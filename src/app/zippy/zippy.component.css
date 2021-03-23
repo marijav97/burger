@@ -1,0 +1,21 @@
+.zippy{
+    border: 1px solid #ff5e13;
+    border-radius: 2px;
+    margin:10px;
+}
+.zippy-heading{
+    font-weight:bold;
+    padding: 20px;
+    cursor: pointer;
+}
+.zippy-boddy{
+    padding: 50px;
+    margin: 50px;
+    overflow: hidden;
+}
+.expanded{
+    background:#ff5e13;
+}
+.glyphicon{
+    float: right;
+}

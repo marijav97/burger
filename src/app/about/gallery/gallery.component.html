@@ -1,0 +1,22 @@
+ <!-- gallery_start -->
+ <div class="gallery_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                    <div class="section_title mb-70 text-center">
+                            <span>Gallery Image</span>
+                            <h3>Our Gallery</h3>
+                        </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-12">
+        <div class="single_gallery small_img" *ngFor="let pic of pics">
+            <a class="popup-image" href={{pic.img}}>
+                <i class="ti-plus"></i>
+            </a>
+        <img src={{pic.img}} alt="">
+    </div>
+    </div>
+    
+</div>

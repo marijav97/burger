@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/burger/1.png",
+        "name":"Beefy Burgers",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":5
+    },
+    {
+        "id":2,
+        "img":"assets/img/burger/2.png",
+        "name":"Burger Boys",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":6
+    },
+    {
+        "id":3,
+        "img":"assets/img/burger/3.png",
+        "name":"Burger Bizz",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":4
+    },
+    {
+        "id":4,
+        "img":"assets/img/burger/4.png",
+        "name":"Crackles Burger",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":5
+    },
+    {
+        "id":5,
+        "img":"assets/img/burger/5.png",
+        "name":"Bull Burgers",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":5
+    },
+    {
+        "id":6,
+        "img":"assets/img/burger/6.png",
+        "name":"Rocket Burgers",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":7
+    },
+    {
+        "id":7,
+        "img":"assets/img/burger/7.png",
+        "name":"Smokin Burger",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":5
+    },
+    {
+        "id":8,
+        "img":"assets/img/burger/8.png",
+        "name":"Delish Burger",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":4
+    },
+    {
+        "id":9,
+        "img":"assets/img/burger/2.png",
+        "name":"Crackles Burger",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":5
+    },
+    {
+        "id":10,
+        "img":"assets/img/burger/1.png",
+        "name":"Bull Cheese Burgers",
+        "desc":"Great way to make your business appear trust and relevant.",
+        "price":7
+    }
+]

@@ -1,0 +1,35 @@
+<!-- testimonial_area_start  -->
+<div class="testimonial_area ">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                    <div class="section_title mb-60 text-center">
+                            <span>Testimonials</span>
+                            <h3>Happy Customers</h3>
+                        </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12" >
+                <div class="testmonial_active owl-carousel">
+                    <div class="single_carousel" *ngFor="let test of tests">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="single_testmonial text-center">
+                                    <p>{{test.descr}}</p>
+                                    <div class="testmonial_author">
+                                        <div class="thumb">
+                                            <img src={{test.imag}} alt="">
+                                        </div>
+                                        <h4>{{test.author}}</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- testimonial_area_ned  -->

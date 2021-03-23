@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "img":"assets/img/burgers/1.png",
+        "price":20,
+        "name":"The Burger President",
+        "desc":"This is the best one you will ever taste"
+    },
+    {
+        "id":2,
+        "img":"assets/img/burgers/2.png",
+        "price":20,
+        "name":"The Burger First Lady",
+        "desc":"Just try it"
+    }
+]
